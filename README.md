@@ -1,4 +1,4 @@
-# flutter_course_2
+# Expenses Management Application for iOS and Android
 
 A new Flutter project.
 
